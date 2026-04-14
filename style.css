@@ -373,10 +373,10 @@ nav a:hover {
 .sobre-text {
     background-color: #48744a;
     padding: 30px 20px;
-    margin: 28%;
+    margin: 10%;
     margin-top: 10px;
     border-radius: 30px;
-    text-align: center;
+    text-align: justify;
     border: 5px solid white;
     margin-bottom: 150px;
 }
